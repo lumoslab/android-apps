@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InputControls</string>
+
+    <string name="radio">Radio Buttons</string>
+    <string name="pirates">Pirates</string>
+    <string name="ninjas">Ninjas</string>
+
+    <string name="pick_time">Pick Time</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Multiple Activities and Layout</string>
+    <string name="title_activity_rl">Relative Layout</string>
+
+<!--    Main-->
+    <string name="home">Home Menu</string>
+    <string name="home_subtitle">using Linear Layout</string>
+
+    <string name="rl">Relative Layout</string>
+    <string name="cl">Constraint Layout</string>
+    <string name="gl">Grid Layout</string>
+
+    <string name="rl_text">Relative Layout utilizes the relationship with each other and parents to define the view\'s position.</string>
+    <string name="cl_text">Constraint Layout needs are least ONE horizontal and ONE vertical constraints to define the views within it.</string>
+    <string name="gl_text">Grid Layout arranges the views in distributed rows and columns manner.</string>
+
+<!--    Relative Layout-->
+    <string name="rl_title">This is a Relative Layout Page.</string>
+    <string name="rl_tx1">Text View #1</string>
+    <string name="rl_tx2">Text View #2</string>
+    <string name="rl_tx3">Text View #3</string>
+
+    <string name="rl_enter">Enter your name:</string>
+    <string name="back">Back to Home</string>
+
+
+</resources>

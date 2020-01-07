@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApplication</string>
+    <string name="HelloLabel">Yee Xun Wei</string>
+    <string name="IntroLabel">No mood.</string>
+</resources>
